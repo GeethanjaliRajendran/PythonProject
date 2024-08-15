@@ -1,3 +1,3 @@
 # PythonProject
 Python Projerct for Data Science
-It is a markdown file in this repository.
+Analyzing Historical Stock/Revenue Data and Building a Dashboard
